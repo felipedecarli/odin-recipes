@@ -1,0 +1,47 @@
+/* page styles */
+body {
+  
+    font-family: Arial, sans-serif;
+    background-color: #fefae0;
+    color: #333;
+    margin: 20px;
+  }
+  
+  
+  /* Heading styles */
+  h1 {
+    color: #bc6c25;
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #283618;
+    margin-top: 2em;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  /* Link styles */
+  a {
+    color: #606c38;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* List spacing */
+  ul, ol {
+    padding-left: 1.5em;
+  }
+  
+  /* Image styling */
+  img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    max-width: 90%;
+    height: auto;
+  }
+  
